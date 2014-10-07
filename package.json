@@ -1,0 +1,24 @@
+{
+  "name": "vnext",
+  "version": "0.0.1",
+  "description": "This is a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cyberkruz/vnext.git"
+  },
+  "author": "Cyberkruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cyberkruz/vnext/issues"
+  },
+  "homepage": "https://github.com/Cyberkruz/vnext",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-shell": "^1.1.1",
+    "load-grunt-tasks": "^0.6.0"
+  }
+}
